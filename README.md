@@ -17,12 +17,12 @@ Mohamed Ehab (error)
 * ​Server Architecture: End-to-End Discord Server Building, Security Setup, &amp; Technical Support.  
 ## ​🎮 Gaming &amp;  Roles  
 
- **​PUBG MOBILE: Official Game Investigator**  
- **PUBG MOBILE MENA: STAR CREATOR **  
-  `discord.gg/pubgm-mena` 400k  
- **​MenAreUp**: General Manager &amp; CTO  (3+ Years of Leadership).   
-   ​About MenAreUp: A premier community hub for electronic games, casual events, and content creators .  
-   `discord.gg/menareup-787864523373674516` 6.5k
+**​PUBG MOBILE: Official Game Investigator**  
+**PUBG MOBILE MENA: STAR CREATOR**  
+`discord.gg/pubgm-mena`400k  
+**​MenAreUp: General Manager &amp; CTO  (3+ Years of Leadership).**   
+About MenAreUp: A premier community hub for electronic games, casual events, and content creators .  
+`discord.gg/menareup-787864523373674516`6.5k
 
 ### 🛠️ Tech Stack
 
